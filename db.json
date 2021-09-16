@@ -13,7 +13,30 @@
       "title": "Post 3"
     }
   ],
-  "comments": [
+  "SalesOrders": [
+    {
+      "orderNo":"1007",
+      "orderDate":"2021-04-28",
+      "sellToCustomerNo":"50000",
+      "MountIncludingVAT":5580.0,
+      "isApprovedForPosting":true,
+      "lines":[
+        {
+          "type":2,
+          "no":"1001",
+          "quantity":1.0,
+          "unitPrice":4000.0,
+          "amount":3600.0},
+        {
+          "type":2,
+          "no":"1100",
+          "quantity":1.0,
+          "unitPrice":1000.0,
+          "amount":900.0
+        }
+      ]}
+  ],
+    "comments": [
     {
       "id": 1,
       "body": "some comment",
