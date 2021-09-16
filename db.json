@@ -71,7 +71,32 @@
       "sellToCustomerNo":"50000",
       "sellToCustomerName":"Espoon vesihuolto Oy",
       "currencyCode":"EUR",
-      "externalDocumentNumber":"JS database 2",
+      "externalDocumentNumber":"JS database 3",
+      "MountIncludingVAT":5580.0,
+      "isApprovedForPosting":true,
+      "lines":[
+        {
+          "type":2,
+          "no":"1001",
+          "quantity":1.0,
+          "unitPrice":4000.0,
+          "amount":3600.0},
+        {
+          "type":2,
+          "no":"1100",
+          "quantity":1.0,
+          "unitPrice":1000.0,
+          "amount":900.0
+        }
+      ]},
+    {
+      "id": 1010,
+      "orderNo":"1010",
+      "orderDate":"2021-08-15",
+      "sellToCustomerNo":"50000",
+      "sellToCustomerName":"Espoon vesihuolto Oy",
+      "currencyCode":"EUR",
+      "externalDocumentNumber":"JS database 4",
       "MountIncludingVAT":5580.0,
       "isApprovedForPosting":true,
       "lines":[
