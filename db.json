@@ -15,7 +15,6 @@
   ],
   "SalesOrders": [
     {
-      "id": 1,
       "orderNo":"1007",
       "orderDate":"2021-04-28",
       "sellToCustomerNo":"50000",
@@ -37,7 +36,6 @@
         }
       ]},
     {
-      "id": 2,
       "orderNo":"1008",
       "orderDate":"2021-07-29",
       "sellToCustomerNo":"50000",
