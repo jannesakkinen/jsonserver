@@ -19,6 +19,7 @@
       "orderNo":"1007",
       "orderDate":"2021-04-28",
       "sellToCustomerNo":"50000",
+      "sellToCustomerName":"Espoon vesihuolto Oy",
       "MountIncludingVAT":5580.0,
       "isApprovedForPosting":true,
       "lines":[
@@ -41,6 +42,7 @@
       "orderNo":"1008",
       "orderDate":"2021-07-29",
       "sellToCustomerNo":"50000",
+      "sellToCustomerName":"Espoon vesihuolto Oy",
       "MountIncludingVAT":5580.0,
       "isApprovedForPosting":true,
       "lines":[
